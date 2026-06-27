@@ -1,0 +1,10 @@
+{
+  "name": "@ai2human/skills",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "check": "node -e \"JSON.parse(require('fs').readFileSync('manifest.json','utf8')); JSON.parse(require('fs').readFileSync('templates.json','utf8')); console.log('ok')\""
+  }
+}
+
