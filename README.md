@@ -33,7 +33,7 @@ Extracted from the live AI2Human app.
 
 ## Links
 
-- Website: https://ai2human.work
+- Website: https://ai2human.io
 - X: https://x.com/ai2humannetwork
-- Live skill console: https://ai2human.work/agent/skill-console
+- Live skill console: https://ai2human.io/agent/skill-console
 
